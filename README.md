@@ -1,1 +1,1 @@
-# Taylor-visualization
+# Minesweeper
